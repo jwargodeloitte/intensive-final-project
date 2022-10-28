@@ -1,4 +1,4 @@
-# intensive-final-project
+# Intensive-Final-Project
 
 ## Overview
 Given Computing Vision's request, our goal is to provide clarity to set a starting point to create a successful movie. The team worked a series of analysis to bring to you the choices for a great **director**, an epic **cast** and an the best movie **genre** that will guarantee to create a blockbuster film! 
@@ -46,10 +46,13 @@ To get an idea of who should be directing this movie, it is also necessary to lo
 
 ### What is the overarching theme?
 Lastly, much of the time spent was researching which genre should the company invest in. The team wanted to find a genre that is highly favored, but not already oversaturated in the market. This again was looking at popularity of genres by counting all the movies that fall under each genre; as well as looking at the overall ratings of the movies in each genre.
-
-
-
-
+### What packages did we use?
+ - Matplotlib
+ - Pandas
+ - SQL (SQLITE3)
+ - Numpy
+ - Seaborn
+ - Scipy.Stats
 
 ## Statistical Communication 
 ### Recommendation 1
