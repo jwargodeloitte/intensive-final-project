@@ -56,7 +56,7 @@ Lastly, much of the time spent was researching which genre should the company in
 
 <img src="/Figures/director_vs_fresh.png" width=50% height=50%>
 
-<img src="/Figures/director_vs_TotalNumberFreshReviews.png" width=50% height=50%>
+<img src="/Figures/Director_vs_TotalNumberFreshReviews.png" width=50% height=50%>
 
 ### Recommendation 2
 
