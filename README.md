@@ -81,7 +81,7 @@ When trying to select which actors and actresses should be cast out of the masse
 
 ### Recommendation 3
 
-In regards to genre, there many genres that are oversaturating the industry, specifically drama and documentaries. Once we removed the oversaturated genres, and just looked at the top overall ratings of all the movies in each genre we found that Music is a great genre to have for upcoming movies. For example, the music genre has an average rating of 7.2, while overall genres have an average rating of 6.9. 
+In regards to genre, there many genres that are oversaturating the industry, specifically drama and documentaries. Once we removed the oversaturated genres, and just looked at the top overall ratings of all the movies in each genre we found that Music is a great genre to have for upcoming movies. For example, the music genre has an average rating of 7.2, while overall genres have an average rating of 6.1. 
 
 <img src="/Figures/averageRatingPerGenre.png" width=50% height=50%>
 
