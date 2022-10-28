@@ -54,11 +54,16 @@ Lastly, much of the time spent was researching which genre should the company in
 ## Statistical Communication 
 ### Recommendation 1
 
+During our analysis of director evaluation, when comparing the ratio of fresh to rotten ratings there was huge variety when it came to that proportion. The max was 99 and the minimum was  about 0.05. From this analysis we can tell that Ava DuVernay who scored 99 is a highly favored director by the masses. To further demonstrate Ava DuVernay positive outlook, we looked just at the fresh votes. She was in the top 1.2% of most fresh votes received.
+
 <img src="/Figures/director_vs_fresh.png" width=50% height=50%>
 
 <img src="/Figures/Director_vs_TotalNumberFreshReviews.png" width=50% height=50%>
 
+
 ### Recommendation 2
+
+When trying to select which actors and actresses should be cast out of the masses our first form of evaluation was looking at which had the most reviews. The more reviews the more popularity. Once finding the top 10 actors with most reviews, we averaged all the rating they ever received then sorted from greatest to least. It is no surprise Robert Downey Jr., Chris Evans, Amy Adams, and Rachel McAdams were on this list all scoring over 7/10 in ratings.
 
 <img src="/Figures/cast_counts_hist.png" width=50% height=50%>
 
@@ -68,10 +73,19 @@ Lastly, much of the time spent was researching which genre should the company in
 
 <img src="/Figures/top10actresses.png" width=50% height=50%>
 
+
 ### Recommendation 3
+
+In regards to genre, there many genres that are oversaturating the industry, specifically drama and documentaries. Once we removed the oversaturated genres, and just looked at the top overall ratings of all the movies in each genre we found that Music is a great genre to have for upcoming movies. For example, the music genre has an average rating of 7.2, while overall genres have an average rating of 6.9. 
 
 <img src="/Figures/averageRatingPerGenre.png" width=50% height=50%>
 
 <img src="/Figures/averageRatingOfMovie.png" width=50% height=50%>
 
+
 ## Conclusions 
+Overall, this study and research has given much qualitative and quantitative data to make reasonable recommendations with backing. The team strongly recommends having Ava DuVernay direct a film with the genre of Music, which casts any of the top 20 actors we have listed. 
+
+
+
+
