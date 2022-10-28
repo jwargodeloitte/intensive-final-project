@@ -1,11 +1,11 @@
 # intensive-final-project
 
 ## Overview
-Given Computing Vision's request, our goal is to provide clarity to set a starting point to create a successful movie. The ==insert team name here== team worked a series of analysis to bring to you the choices for a great **director**, an epic **cast** and an the best movie **genre** that will guarantee to create a blockbuster film! 
+Given Computing Vision's request, our goal is to provide clarity to set a starting point to create a successful movie. The team worked a series of analysis to bring to you the choices for a great **director**, an epic **cast** and an the best movie **genre** that will guarantee to create a blockbuster film! 
 
 ### What is in the repository ?
 
-The repository contains README file, .gitignore, 2 jupyter notebooks not in a folder, and 2 folders that also contain jupyter notebooks.
+The repository contains *README* file, .gitignore, 2 jupyter notebooks not in a folder, and 2 folders that also contain jupyter notebooks.
 
 - The *README* (this file) shows in a high level what this project is about and what this repository contains.
 - The *.gitignore* stores the data we utilized because it was too massive to unzip.
