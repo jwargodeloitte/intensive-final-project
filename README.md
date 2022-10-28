@@ -63,7 +63,7 @@ During our analysis of director evaluation, when comparing the ratio of fresh to
 
 ### Recommendation 2
 
-When trying to select which actors and actresses should be cast out of the masses our first form of evaluation was looking at which had the most reviews. The more reviews the more popularity. Once finding the top 10 actors with most reviews, we averaged all the rating they ever received then sorted from greatest to least. It is no surprise Robert Downey Jr., Chris Evans, Amy Adams, and Rachel McAdams were on this list all scoring over 7/10 in ratings.
+When trying to select which actors and actresses should be cast out of the masses our first form of evaluation was looking at which had the most reviews. The more reviews the more popularity. Once finding the top 10 actors with most reviews, we averaged all the rating they ever received then sorted from greatest to least. It is no surprise Robert Downey Jr., Chris Evans, Amy Adams, and Rachel McAdams were on this list all scoring over 7/10 in ratings. In addition, it is important to note, there is no relation between ratings and number of members in a cast.The correlation coefficient is almost 0.  In addition, it is noted most productions have an average cast size of 4 protagonist characters.
 
 <img src="/Figures/cast_counts_hist.png" width=50% height=50%>
 
