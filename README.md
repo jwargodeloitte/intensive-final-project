@@ -17,6 +17,14 @@ The repository contains *README* file, .gitignore, 2 jupyter notebooks not in a 
 - Jupyter notebook titled Data_Analysis_Master that contains all the final data analysis 
 - PowerPoint presentation titled *intensive-final-project* that contains our findings and research throughout this entire research.
 
+### What packages did we use?
+ - Matplotlib
+ - Pandas
+ - SQL (SQLITE3)
+ - Numpy
+ - Seaborn
+ - Scipy.Stats
+ 
 ## Business Understanding
 ### Current Situation 
 The movie business has been growing fast during the last decade and with the appearance of streaming services, movies are becoming reachable to everybody. The competition is tough so only a few new movie studios succeed. 
@@ -46,13 +54,7 @@ To get an idea of who should be directing this movie, it is also necessary to lo
 
 ### What is the overarching theme?
 Lastly, much of the time spent was researching which genre should the company invest in. The team wanted to find a genre that is highly favored, but not already oversaturated in the market. This again was looking at popularity of genres by counting all the movies that fall under each genre; as well as looking at the overall ratings of the movies in each genre.
-### What packages did we use?
- - Matplotlib
- - Pandas
- - SQL (SQLITE3)
- - Numpy
- - Seaborn
- - Scipy.Stats
+
 
 ## Statistical Communication 
 ### Recommendation 1
