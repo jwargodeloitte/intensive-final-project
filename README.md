@@ -52,4 +52,26 @@ Lastly, much of the time spent was researching which genre should the company in
 
 
 ## Statistical Communication 
+### Recommendation 1
+
+<img src="/Figures/director_vs_fresh.png" width=50% height=50%>
+
+<img src="/Figures/director_vs_TotalNumberFreshReviews.png" width=50% height=50%>
+
+### Recommendation 2
+
+<img src="/Figures/cast_counts_hist.png" width=50% height=50%>
+
+<img src="/Figures/cast_counts_average_ratings.png" width=50% height=50%>
+
+<img src="/Figures/top10actors.png" width=50% height=50%>
+
+<img src="/Figures/top10actresses.png" width=50% height=50%>
+
+### Recommendation 3
+
+<img src="/Figures/averageRatingPerGenre.png" width=50% height=50%>
+
+<img src="/Figures/averageRatingOfMovie.png" width=50% height=50%>
+
 ## Conclusions 
