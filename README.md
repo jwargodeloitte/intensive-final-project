@@ -15,7 +15,7 @@ The repository contains *README* file, .gitignore, 2 jupyter notebooks not in a 
 - The other Folder titled Figures contains the figures and other visuals that have been extracted to depict our findings.
 - Jupyter notebook titled Data_Cleaning_Master contains the final data cleaning we did so the data can be utilized efficiently.
 - Jupyter notebook titled Data_Analysis_Master that contains all the final data analysis 
-- PowerPoint presentation titled *intensive-final-project* that contains our findings and research throughout this entire research.
+- PowerPoint presentation titled *Pod5_Presentation* that contains our findings and research throughout this entire research.
 
 ### What packages did we use?
  - Matplotlib
